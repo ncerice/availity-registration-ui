@@ -1,6 +1,6 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "availity-registration-ui",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "bootstrap": "4.6.0",
